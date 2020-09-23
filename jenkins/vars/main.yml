@@ -1,0 +1,5 @@
+---
+# vars file for jenkins
+
+jenkins_home: /opt/apache-tomcat-8.0.32/webapps
+jenkins_url: http://mirrors.jenkins.io/war-stable/latest/jenkins.war
