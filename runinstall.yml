@@ -1,6 +1,5 @@
 ---
- runinstall.yml
-- hosts: pwdev
+- hosts: all
   become: yes
   become_method: sudo
   roles:
